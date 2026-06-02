@@ -1,7 +1,6 @@
 # Ex.No: 9  Implementation of RollarBall Design using Reinforcement Learning 
-### NAME: Alan Samuel Vedanayagam
-### DATE:  21/5/2026                                                                          
-### REGISTER NUMBER : 212223040012
+### NAME: Vaitheswaran N                                                                     
+### REGISTER NUMBER : 212224110059
 ### AIM: 
 To write a program to design RollerBall and train the Rollerbal by Reinforcement learning  in Unity 
 ### Installation Required 
